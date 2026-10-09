@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Signals &amp; Discernment",
+    "description": "",
+    "home_page_url": "https://signalsanddiscernment.github.io/site",
+    "feed_url": "https://signalsanddiscernment.github.io/site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Adam"
+    },
+    "items": [
+        {
+            "id": "https://signalsanddiscernment.github.io/site/testing/",
+            "url": "https://signalsanddiscernment.github.io/site/testing/",
+            "title": "Testing",
+            "summary": "test",
+            "content_html": "<p>test</p>",
+            "author": {
+                "name": "Adam"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-09T11:41:40-04:00",
+            "date_modified": "2026-10-09T11:41:40-04:00"
+        }
+    ]
+}
